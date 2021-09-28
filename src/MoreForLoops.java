@@ -9,9 +9,7 @@
   For example, the factorial of 4 is (4 x 3 x 2 x 1 = 24).
 */
 
-
 import java.util.Scanner;
-
 public class MoreForLoops {
     public static void main(String args[]) {
         // 1. Write a program that prints all the odd numbers from 1-20. Section
